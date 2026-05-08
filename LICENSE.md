@@ -1,4 +1,4 @@
-
+Enhance Avast Security for macOS with custom Avast Security for macOS Utility | cross-device-sync + VPN-integration, the #1 utility. Includes cross-device-sync and VPN-integration
 
 
 
